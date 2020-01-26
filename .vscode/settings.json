@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Night Owl (No Italics)",
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "yapf",
+    "python.linting.pylintEnabled": false,
+    "python.pythonPath": "D:\\python\\python.exe",
+    "python.autoComplete.addBrackets": true,
+    "files.autoSaveDelay": 1000,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+}
